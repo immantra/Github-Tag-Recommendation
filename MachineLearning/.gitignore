@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+questions.txt
+tags.txt
+questions_processed.txt
+questions_processed_adapted.txt
+venv
